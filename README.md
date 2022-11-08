@@ -1,5 +1,5 @@
 # 2D-RPG-Unity-Tutorial
-A basic tutorial for a 2D Pixel Art RPG game in Unity.
+A basic tutorial for a 2D Pixel Art RPG game in Unity. <br/>
 The tutorial follows the epic playlist of [Mister Taft Creates](https://www.youtube.com/c/MisterTaftCreates/playlists). 
 
 ## Tutorial Index
