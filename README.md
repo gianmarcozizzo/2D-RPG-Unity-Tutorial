@@ -27,7 +27,7 @@ The tutorial follows the epic playlist of [Mister Taft Creates](https://www.yout
 - [Part 20 - Hurtboxes](https://www.youtube.com/watch?v=9cMJoKWxud8&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=22)
 - [Part 21 - Enemy Animations](https://www.youtube.com/watch?v=65W65ihEvGU&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=23)
 - [Part 22 - Enemy Health with Scriptable Objects](https://www.youtube.com/watch?v=baaCNZsOECI&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=24)
-- [Part 23 Scritable Objects to make a Signal System](https://www.youtube.com/watch?v=Lw3hNA5CkYY&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=25)
+- [Part 23 - Scritable Objects to make a Signal System](https://www.youtube.com/watch?v=Lw3hNA5CkYY&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=25)
 - [Part 24 - Zelda like Heart System](https://www.youtube.com/watch?v=cBKChMBO7CQ&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=26)
 - [Part 25 - Zelda Hearts pt 2](https://www.youtube.com/watch?v=madv_VkYQno&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=27)
 - [Part 26 - More rooms](https://www.youtube.com/watch?v=ASRvBqwYfaE&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=28)
