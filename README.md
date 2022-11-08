@@ -1,7 +1,8 @@
 # 2D-RPG-Unity-Tutorial
-A basic tutorial for a 2D Pixel Art RPG game in Unity
+A basic tutorial for a 2D Pixel Art RPG game in Unity.
+The tutorial follows the epic playlist of [Mister Taft Creates](https://www.youtube.com/c/MisterTaftCreates/playlists). 
 
-## TO DO
+## Tutorial Index
 
 - [Part 0 - What this is](https://www.youtube.com/watch?v=F5sMq8PrWuM&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu)
 - [Part 1 - Setup](https://www.youtube.com/watch?v=P98iXcpN9YQ&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=2)
@@ -34,5 +35,5 @@ A basic tutorial for a 2D Pixel Art RPG game in Unity
 - [Part 28 - Switching Scenes](https://www.youtube.com/watch?v=wNl--exin90&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=30)
 - [Part 29 - Fading between Scenes](https://www.youtube.com/watch?v=JcEJtEWjiZU&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=31)
 - [Part 30 - Context Clues](https://www.youtube.com/watch?v=ct_5AvIk3vc&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=32)
-  - [Part 30.1 - ! and A](https://www.youtube.com/watch?v=5AqHZ_YL59c&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=33)
+  - [Part 30.1 - Q and A](https://www.youtube.com/watch?v=5AqHZ_YL59c&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=33)
 
