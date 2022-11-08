@@ -34,5 +34,5 @@ A basic tutorial for a 2D Pixel Art RPG game in Unity
 - [Part 28](https://www.youtube.com/watch?v=wNl--exin90&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=30)
 - [Part 29](https://www.youtube.com/watch?v=JcEJtEWjiZU&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=31)
 - [Part 30](https://www.youtube.com/watch?v=ct_5AvIk3vc&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=32)
-- - [Part 30.1](https://www.youtube.com/watch?v=5AqHZ_YL59c&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=33)
+  - [Part 30.1](https://www.youtube.com/watch?v=5AqHZ_YL59c&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=33)
 
