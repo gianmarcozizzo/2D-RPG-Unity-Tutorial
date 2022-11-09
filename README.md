@@ -37,3 +37,4 @@ The tutorial follows the epic playlist of [Mister Taft Creates](https://www.yout
 - [Part 30 - Context Clues](https://www.youtube.com/watch?v=ct_5AvIk3vc&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=32)
   - [Part 30.1 - Q and A](https://www.youtube.com/watch?v=5AqHZ_YL59c&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=33)
 - [Part 31 - Project Structure](https://www.youtube.com/watch?v=0SIJtezoJcM&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=34)
+- [Part 32 - Treasure Chests 1](https://www.youtube.com/watch?v=INXCrkR_6Yo&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=35)
