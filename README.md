@@ -5,6 +5,7 @@ The tutorial follows the epic playlist of [Mister Taft Creates](https://www.yout
 Keep in mind that the tutorial has been made three years ago and with high probabilites you will use a different version of Unity. Pay attention to this, even if the differences will be very few. The only two "problematic" differences found so far are the following:
 - it seems that the "Text" type doesn't exist on the last versions of Unity. Insted, you need to use the type "TextMeshProUGUI", using TMPro;
 - the Signal type created in one of the tutorials is now an existing type by default, so the script "Signal" from the tutorial has been called "SignalSender" by me <br/>
+
 Then, here are some useful tips:
 - it's strongly suggested to not skip any parte of the tutorial because sometimes the author modifies some parts already made, in order to improve the performances and the overall organziation
 - sometimes the author adds something off-screen: don't worry, he is conscious of what he didn't record and if you find some differences with your project, he will address them in a near future. Only one time happened to me that I had to copy some little modifications on a script that he didn't show directly 
