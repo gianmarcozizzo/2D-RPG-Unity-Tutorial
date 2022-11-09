@@ -10,7 +10,7 @@ Then, here are some useful tips:
 - it's strongly suggested to not skip any part of the tutorial because sometimes the author modifies some parts already made, in order to improve the performances and the overall organziation
 - sometimes the author adds something off-screen: don't worry, he is conscious of what he didn't record and if you find some differences with your project, he will address them in a near future. Only one time happened to me that I had to copy some little modifications on a script that he didn't show directly 
 - the comments of the videos are full of information! If you are having some problems, first of all look in the comments if anyone have had your same problem and how he/she managed to resolve them
-- also in the comments, a lot of users propose a different way to implement some parts of the code, since there are a lot of ways of doing the same thing is Unity. Several times, the solutions offered by those users are betters than the ones in the tutorial
+- also in the comments, a lot of users propose a different way to implement some parts of the code, since there are a lot of ways of doing the same thing is Unity. Several times, the solutions offered by those users are better than the ones in the tutorial
 
 ## Tutorial Index
 
